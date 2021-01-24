@@ -13,8 +13,11 @@ Download the source code from the repository and run the file just as any other 
 python3 SnakeGame.py
 
 
-#### Screenshots
+# Screenshots
 <img width="601" alt="2021-01-23" src="https://user-images.githubusercontent.com/77839544/105632772-04d52d00-5e7b-11eb-894a-ecc34c6df58f.png">
+Running in pycharm
+
+<img width="601" alt="2021-01-24 (1)" src="https://user-images.githubusercontent.com/77839544/105632928-d0ae3c00-5e7b-11eb-85aa-7efaf68292db.png">
 
 
 
