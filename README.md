@@ -29,7 +29,7 @@ Running in pycharm
 
 Game end screen
 
-<img width="601" alt="2021-01-24 (2)" src="https://user-images.githubusercontent.com/77839544/105633114-cccee980-5e7c-11eb-93e6-ee647b306d3f.png">
+<img width="601" alt="2021-01-24 (3)" src="https://user-images.githubusercontent.com/77839544/105633287-bb3a1180-5e7d-11eb-956a-a271be9fb9ca.png">
 
 
 
