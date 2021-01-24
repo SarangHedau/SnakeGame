@@ -20,6 +20,7 @@ Start screen
 
 
 Running in pycharm
+
 <img width="601" alt="2021-01-23" src="https://user-images.githubusercontent.com/77839544/105632772-04d52d00-5e7b-11eb-894a-ecc34c6df58f.png">
 
 
@@ -27,7 +28,9 @@ Running in pycharm
 
 
 Game end screen
+
 <img width="601" alt="2021-01-24 (2)" src="https://user-images.githubusercontent.com/77839544/105633114-cccee980-5e7c-11eb-93e6-ee647b306d3f.png">
+
 
 
 
