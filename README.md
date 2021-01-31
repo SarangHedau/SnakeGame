@@ -12,13 +12,17 @@ python3 SnakeGame.py
 
 # Screenshots
 Start screen
+
 <img width="601" alt="2021-01-24 (2)" src="https://user-images.githubusercontent.com/77839544/105633046-5e8a2700-5e7c-11eb-9ba7-8e8c37b11e41.png">
 
 Running in pycharm
+
 <img width="601" alt="2021-01-23" src="https://user-images.githubusercontent.com/77839544/105632772-04d52d00-5e7b-11eb-894a-ecc34c6df58f.png">
+
 <img width="601" alt="2021-01-24 (1)" src="https://user-images.githubusercontent.com/77839544/105632928-d0ae3c00-5e7b-11eb-85aa-7efaf68292db.png">
 
 Game end screen
+
 <img width="601" alt="2021-01-24 (3)" src="https://user-images.githubusercontent.com/77839544/105633287-bb3a1180-5e7d-11eb-956a-a271be9fb9ca.png">
 
 
