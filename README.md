@@ -26,12 +26,6 @@ Game end screen
 <img width="601" alt="2021-01-24 (3)" src="https://user-images.githubusercontent.com/77839544/105633287-bb3a1180-5e7d-11eb-956a-a271be9fb9ca.png">
 
 
-# Reference
-https://www.edureka.co/blog/snake-game-with-pygame/
-
-https://codewithharry.com/
-
-
 
 
 
